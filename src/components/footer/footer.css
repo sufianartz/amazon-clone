@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: #131921;
+     padding: 1em;
+    height: 70px; }
+
+.footer__container{
+    justify-content: space-between;
+    
+    color: white; }
+
+.footer__copy{
+     margin: 0
+     }
